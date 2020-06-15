@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<link href="https://raw.githubusercontent.com/thiagospassos/wondering.family-podcast/master/feed.rss" rel="self" type="application/rss+xml" />
+		<link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+		<title>
+			Wondering Family
+		</title>
+		<lastBuildDate>
+			Mon, 15 Jun 2020 07:24:55 -0400
+		</lastBuildDate>
+		<link>
+			https://wondering.family
+		</link>
+		<language>
+			pt-br
+		</language>
+		<copyright>
+			&#x2117; &amp; © 2020 Wondering Family
+		</copyright>
+		<subtitle>
+			<![CDATA[Vendemos tudo e fomos em busca de uma aventura em volta da Austrália numa caravan com nossos 3 filhos pequenos. Vamos compartilhar nossos desafios, aventuras, dicas e muito mais enquanto viajamos.]]>
+		</subtitle>
+		<author>
+			Thiago &amp; Alyne
+		</author>
+		<summary>
+			<![CDATA[Vendemos tudo e fomos em busca de uma aventura em volta da Austrália numa caravan com nossos 3 filhos pequenos. Vamos compartilhar nossos desafios, aventuras, dicas e muito mais enquanto viajamos.]]>
+		</summary>
+		<type>
+			episodic
+		</type>
+		<explicit>
+			false
+		</explicit>
+		<description>
+			<![CDATA[Vendemos tudo e fomos em busca de uma aventura em volta da Austrália numa caravan com nossos 3 filhos pequenos. Vamos compartilhar nossos desafios, aventuras, dicas e muito mais enquanto viajamos.]]>
+		</description>
+		<owner>
+			<name>
+				Thiago &amp; Alyne
+			</name>
+			<email>
+				contact@wondering.family
+			</email>
+		</owner>
+		<image>
+			<url>
+				https://raw.githubusercontent.com/thiagospassos/wondering.family-podcast/master/images/logo.jfif
+			</url>
+			<title>
+				Wondering Family
+			</title>
+			<link>
+				https://wondering.family
+			</link>
+		</image>
+		<image href="https://raw.githubusercontent.com/thiagospassos/wondering.family-podcast/master/images/logo.jfif" />
+		<category text="Society &amp; Culture">
+			<category text="Places &amp; Travel" />
+		</category>
+		<item>
+			<title>
+				Dia a dia
+			</title>
+			<title>
+				Dia a dia
+			</title>
+			<description>
+				<![CDATA[<p>Nesse episódio, a gente conversa um pouco sobre o nosso dia a dia dentro da caravan e na estrada.<br><br>E claro, cobrimos também nosso diário de bordo. Como foram os últimos dois meses parados enquanto resolvíamos qual seria nosso próximo passo por conta do corona vírus.<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:<br><br>https://instagram.com/wondering.family<br>https://facebook.com/wondering.family<br>https://www.youtube.com/wonderingfamily<br><br>Ou mande um e-mail para contact@wondering.family</p>]]>
+			</description>
+			<encoded>
+				<![CDATA[<p>Nesse episódio, a gente conversa um pouco sobre o nosso dia a dia dentro da caravan e na estrada.<br><br>E claro, cobrimos também nosso diário de bordo. Como foram os últimos dois meses parados enquanto resolvíamos qual seria nosso próximo passo por conta do corona vírus.<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:<br><br>https://instagram.com/wondering.family<br>https://facebook.com/wondering.family<br>https://www.youtube.com/wonderingfamily<br><br>Ou mande um e-mail para contact@wondering.family</p>]]>
+			</encoded>
+			<author>
+				Thiago &amp; Alyne
+			</author>
+			<summary>
+				Nesse episódio, a gente conversa um pouco sobre o nosso dia a dia dentro da caravan e na estrada.E claro, cobrimos também nosso diário de bordo. Como foram os últimos dois meses parados enquanto resolvíamos qual seria nosso próximo passo por conta do...
+			</summary>
+			<enclosure url="https://wonderingfamilypodcast.blob.core.windows.net/episodes/04-dia-a-dia.mp3" length="20850590" type="audio/mpeg" />
+			<guid isPermaLink="false">
+				Buzzsprout-4126067
+			</guid>
+			<pubDate>
+				Thu, 11 Jun 2020 12:00:00 +1000
+			</pubDate>
+			<duration>
+				1735
+			</duration>
+			<keywords>
+				Coronavirus, viajando, viagem, viajando com crianças, estrada, pegando estrada, Austrália, dia a dia
+			</keywords>
+			<episodeType>
+				full
+			</episodeType>
+			<explicit>
+				false
+			</explicit>
+		</item>
+		<item>
+			<title>
+				Desacelerando a vida
+			</title>
+			<title>
+				Desacelerando a vida
+			</title>
+			<description>
+				<![CDATA[<p>Nesse episódio, a gente conversa um pouco sobre esse estilo de vida desacelerado e como estamos sempre tentando desacelerá-la para que possamos nos conectar ainda mais.<br><br>E claro, cobrimos também nosso diário de bordo. Como foi essa última semana principalmente por conta do fechamento das fronteiras de alguns estados aqui na Austrália.<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:<br><br>https://instagram.com/wondering.family<br>https://facebook.com/wondering.family<br>https://www.youtube.com/wonderingfamily<br><br>Ou mande um e-mail para contact@wondering.family</p>]]>
+			</description>
+			<encoded>
+				<![CDATA[<p>Nesse episódio, a gente conversa um pouco sobre esse estilo de vida desacelerado e como estamos sempre tentando desacelerá-la para que possamos nos conectar ainda mais.<br><br>E claro, cobrimos também nosso diário de bordo. Como foi essa última semana principalmente por conta do fechamento das fronteiras de alguns estados aqui na Austrália.<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:<br><br>https://instagram.com/wondering.family<br>https://facebook.com/wondering.family<br>https://www.youtube.com/wonderingfamily<br><br>Ou mande um e-mail para contact@wondering.family</p>]]>
+			</encoded>
+			<image href="https://storage.buzzsprout.com/variants/67osaistd2jksym24p5ar6k9sxwu/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg" />
+			<author>
+				Thiago &amp; Alyne
+			</author>
+			<summary>
+				Nesse episódio, a gente conversa um pouco sobre esse estilo de vida desacelerado e como estamos sempre tentando desacelerá-la para que possamos nos conectar ainda mais.E claro, cobrimos também nosso diário de bordo. Como foi essa última semana...
+			</summary>
+			<enclosure url="https://wonderingfamilypodcast.blob.core.windows.net/episodes/03.%20Desacelerando%20a%20vida.mp4" length="14130861" type="audio/mpeg" />
+			<guid isPermaLink="false">
+				Buzzsprout-3130864
+			</guid>
+			<pubDate>
+				Fri, 27 Mar 2020 00:00:00 +1000
+			</pubDate>
+			<duration>
+				1174
+			</duration>
+			<keywords>
+				Coronavirus, viajando, viagem, viajando com crianças, estrada, pegando estrada, Austrália, desacelerado
+			</keywords>
+			<episodeType>
+				full
+			</episodeType>
+			<explicit>
+				false
+			</explicit>
+		</item>
+		<item>
+			<title>
+				Como o Coronavirus tem nos afetado
+			</title>
+			<title>
+				Como o Coronavirus tem nos afetado
+			</title>
+			<description>
+				<![CDATA[<p>Nesse episódio, a gente conversa um pouco sobre como o Coronavirus tem nos afetado diretamente e indiretamente.&nbsp;<br><br>E claro, cobrimos também nosso diário de bordo. Como foram as primeiras duas semanas em South Australia.&nbsp;<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:</p><p><a href="https://instagram.com/wondering.family">https://instagram.com/wondering.family</a><br><a href="https://facebook.com/wondering.family">https://facebook.com/wondering.family</a><br><a href="https://www.youtube.com/wonderingfamily">https://www.youtube.com/wonderingfamily</a></p>]]>
+			</description>
+			<encoded>
+				<![CDATA[<p>Nesse episódio, a gente conversa um pouco sobre como o Coronavirus tem nos afetado diretamente e indiretamente.&nbsp;<br><br>E claro, cobrimos também nosso diário de bordo. Como foram as primeiras duas semanas em South Australia.&nbsp;<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:</p><p><a href="https://instagram.com/wondering.family">https://instagram.com/wondering.family</a><br><a href="https://facebook.com/wondering.family">https://facebook.com/wondering.family</a><br><a href="https://www.youtube.com/wonderingfamily">https://www.youtube.com/wonderingfamily</a></p>]]>
+			</encoded>
+			<image href="https://storage.buzzsprout.com/variants/1ayobrtecuqazpxt3dsi6cl23dcs/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg" />
+			<author>
+				Thiago &amp; Alyne
+			</author>
+			<summary>
+				Nesse episódio, a gente conversa um pouco sobre como o Coronavirus tem nos afetado diretamente e indiretamente. E claro, cobrimos também nosso diário de bordo. Como foram as primeiras duas semanas em South Australia. Embarque nas nossas aventuras.Se...
+			</summary>
+			<enclosure url="https://wonderingfamilypodcast.blob.core.windows.net/episodes/02-Coronavirus.mp4" length="13456675" type="audio/mpeg" />
+			<guid isPermaLink="false">
+				Buzzsprout-3065614
+			</guid>
+			<pubDate>
+				Sat, 21 Mar 2020 00:00:00 +1000
+			</pubDate>
+			<duration>
+				1116
+			</duration>
+			<keywords>
+				Coronavirus, viajando, viagem, viajando com crianças, estrada, pegando estrada, praias, lagoa, lago, Austrália
+			</keywords>
+			<episodeType>
+				full
+			</episodeType>
+			<explicit>
+				false
+			</explicit>
+		</item>
+		<item>
+			<title>
+				Como tudo começou
+			</title>
+			<title>
+				Como tudo começou
+			</title>
+			<description>
+				<![CDATA[<p>Nós somos uma família de pais brasileiros morando na Austrália a 10 anos com 3 filhos nascidos aqui. A 8 meses atrás vendemos nossa casa e fomos viajar pela Austrália por tempo indeterminado numa caravan.&nbsp;<br><br>&nbsp;<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:</p><p><a href="https://instagram.com/wondering.family">https://instagram.com/wondering.family</a><br><a href="https://facebook.com/wondering.family">https://facebook.com/wondering.family</a><br><a href="https://www.youtube.com/wonderingfamily">https://www.youtube.com/wonderingfamily</a></p>]]>
+			</description>
+			<encoded>
+				<![CDATA[<p>Nós somos uma família de pais brasileiros morando na Austrália a 10 anos com 3 filhos nascidos aqui. A 8 meses atrás vendemos nossa casa e fomos viajar pela Austrália por tempo indeterminado numa caravan.&nbsp;<br><br>E claro, cobrimos também nosso diário de bordo. Como foram as primeiras duas semanas em South Australia.&nbsp;<br><br>Embarque nas nossas aventuras.<br><br>Se quiserem seguir a gente:</p><p><a href="https://instagram.com/wondering.family">https://instagram.com/wondering.family</a><br><a href="https://facebook.com/wondering.family">https://facebook.com/wondering.family</a><br><a href="https://www.youtube.com/wonderingfamily">https://www.youtube.com/wonderingfamily</a></p>]]>
+			</encoded>
+			<image href="https://storage.buzzsprout.com/variants/1ayobrtecuqazpxt3dsi6cl23dcs/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg" />
+			<author>
+				Thiago &amp; Alyne
+			</author>
+			<summary>
+				Nós somos uma família de pais brasileiros morando na Austrália a 10 anos com 3 filhos nascidos aqui. A 8 meses atrás vendemos nossa casa e fomos viajar pela Austrália por tempo indeterminado numa caravan. E claro, cobrimos também nosso diário de bordo. Como foram as primeiras duas semanas em South Australia. Embarque nas nossas aventuras.Se...
+			</summary>
+			<enclosure url="https://wonderingfamilypodcast.blob.core.windows.net/episodes/01-Piloto.mp4" length="13456675" type="video/mp4" />
+			<guid isPermaLink="false">
+				Buzzsprout-3065614
+			</guid>
+			<pubDate>
+				Fri, 13 Mar 2020 00:00:00 +1000
+			</pubDate>
+			<duration>
+				1214
+			</duration>
+			<keywords>
+				viajando, viagem, viajando com crianças, estrada, pegando estrada, praias, lagoa, lago, Austrália
+			</keywords>
+			<episodeType>
+				full
+			</episodeType>
+			<explicit>
+				false
+			</explicit>
+		</item>
+	</channel>
+</rss>
